@@ -108,7 +108,8 @@ To run the tests:
 
 Should look something like this:
 
-{Imagen test build}
+<img width="739" height="327" alt="image" src="https://github.com/user-attachments/assets/b7bb44b4-7cad-4860-ae3a-bbc3611ff937" />
+
 
 ### Testing 
 
