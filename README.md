@@ -14,6 +14,7 @@ Serve static resources (HTML, CSS, JS, images) alongside REST services.
 The framework is implemented from scratch without relying on external frameworks,
 demonstrating how annotation processing, reflection, and an HTTP server
 can be combined to create a minimal but functional micro web framework in pure Java
+
 ---
 
 ## 📦 Installation
@@ -38,7 +39,7 @@ can be combined to create a minimal but functional micro web framework in pure J
    ```
 4. Should look something like this:
 
-{Imagen build}
+<img width="785" height="288" alt="image" src="https://github.com/user-attachments/assets/a33831e5-1713-41ff-9d2a-8d75ca55d0b8" />
 
 ---
 ## ▶️ How to Run
@@ -62,13 +63,15 @@ can be combined to create a minimal but functional micro web framework in pure J
    ```
    http://localhost:35000/
    ```
-{Imagen pag inicial}
+   
+<img width="1920" height="983" alt="image" src="https://github.com/user-attachments/assets/4d289c1f-8228-49cd-ab13-2158e73a8e97" />
 
 ---
 
 ## 🏗️ Architecture
 
-{Imagen arquitectura}
+![Arquitectura (1)](https://github.com/user-attachments/assets/814b78ca-3713-438f-936e-b86bba16bf04)
+
 
 This architecture represents a simple web microframework built in Java.
 
@@ -114,16 +117,21 @@ Should look something like this:
    http://localhost:35000/app/greeting?name=Jenny
    ```
 
-{Imagen a secas}
-{imagen con bot+on}
+<img width="555" height="130" alt="image" src="https://github.com/user-attachments/assets/12bb83f0-7bd9-4fb2-bfc0-3abe29de7911" />
+
+
+<img width="1920" height="977" alt="image" src="https://github.com/user-attachments/assets/057d957a-d5fd-4634-9274-3e49a089e34e" />
+
 
 - Get if a number is even or odd with:
    ```
    http://localhost:35000/app/parity?number=364281
    ```
 
-{Imagen a secas}
-{imagen con bot+on}
+<img width="566" height="120" alt="image" src="https://github.com/user-attachments/assets/4fb93842-2fd0-4c82-8d9c-1152cb14af66" />
+
+
+<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/518d8299-435c-481b-a49b-aca8b33be9fd" />
 
 - You can try other resources stored in the resources folder, for example:
    ```
@@ -136,10 +144,11 @@ Should look something like this:
 
   With:
    ```
-   http://localhost:35000/gatito.jpg
+   http://localhost:35000/perrito.jpg
    ```
 
-{imagen arch estatico}
+<img width="1920" height="981" alt="image" src="https://github.com/user-attachments/assets/b685c184-9fca-4109-8380-e89d8bc68610" />
+
 
 ---
 
